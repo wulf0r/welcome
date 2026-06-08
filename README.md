@@ -27,7 +27,7 @@ Here are some of the more substantial projects I've built:
 * Transaction retrieval from Bank and Paypal for semi-automatically determining orders "paid" status
 
 
-### History#### History & Impact
+#### History & Impact
 The first version went live in 2015 (Java + Apache Tapestry) with the main goal of automatically determining paid status. Over the years it evolved into the **central operations system** of the company.
 
 The existence of this tool (and Artikel-UI) enabled an fast and smooth migration from the old EPages shop to Shopify. Today it saves my wife dozens of hours per week, allowing her to focus on product design instead of bureaucracy.
