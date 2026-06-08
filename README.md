@@ -1,5 +1,5 @@
 # Welcome
-Welcome to my Github repo.
+Welcome to my Github!
 
 ## Repos
 All my repos are private. I'm happy to provide access to potential employers, recruiters, hiring managers or interviewers. I would be thrilled to discuss the codebase in depth with anyone that is interested. 
