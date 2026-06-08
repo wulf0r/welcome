@@ -2,7 +2,7 @@
 Welcome to my Github repo.
 
 ## Repos
-All my repos are private. I'm happy to provide access to recruites or interviewers. Here is a short overview of what I have been working on.
+All my repos are private. I'm happy to provide access to recruites or interviewers. I would be thrilled to discuss the codebase in debth with anyone that is interested. Here is a short overview of what I have been working on.
 
 ### [schniesel-bestell](https://github.com/wulf0r/schniesel-bestell-rework)
 
@@ -24,8 +24,9 @@ Size: approx 35.000 loc
 
 
 ### History
-The first iteration of this project went productive in 2015 and was built on Java with Apache Tapestry. The main goal then was to automatically determine paid status because most order were paid via bank transfer. Overtime the software grew to support the business and all the features listed above were gradually added. Notably, the existence of this software (and artikel-ui, see below) allowed us to very quickly migrate the shop from legacy EPages to Shopify.
-In the year 2022, I ported everything over to Kotlin for backend and frontend. Notable in this project is that everything, such as data transfer objects, REST routes, frontend pages, that can be type safe, is type safe and everything that can be shared between frontend and backend is shared. 
+The first iteration of this project went productive in 2015 and was built on Java with Apache Tapestry. The main goal then was to automatically determine order paid status. Over time the software grew to support the business and all the features listed above were gradually added. Notably, the existence of this software (and artikel-ui, see below) allowed us to very quickly migrate the shop from legacy EPages to Shopify. The software is now the central to the managment of the company and frees up lot's of time so my wive can focus on her creations over the bureaucracy around orders.
+
+In the year 2022, I ported everything over to Kotlin for backend and frontend. The architecture shifted from backend generated HTML pages to "mobile first" SPA frontend. Notable in this project is that everything, such as data transfer objects, REST routes, frontend pages, that can be type safe, is type safe and everything that can be shared between frontend and backend is shared. 
 
 
 #### Tech Stack
@@ -36,6 +37,9 @@ In the year 2022, I ported everything over to Kotlin for backend and frontend. N
 * CI and deployment: Github actions build releases that are pulled into a docker image
 
 #### Screenshots
+
+Screenshots are auto-translated. The software itself is only in German. PII is hidden with a grey block or just dummy values.
+
 
 
 
